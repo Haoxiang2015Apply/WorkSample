@@ -1,0 +1,2 @@
+1: CNN_NET folder contains the code. I wrote this by referencing Jake Bouvries's Notes on Convolutional Neural Networks. This project can recognize hand-written digits using CNN.
+2: The derivation.pdf demonstrates my derivation of CNN.
